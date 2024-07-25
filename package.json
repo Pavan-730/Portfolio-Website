@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-responsive-complete",
+  "version": "1.0.0",
+  "description": "- Responsive Personal Portfolio Website HTML CSS & JavaScript.\r - Contains animations when scrolling.\r - Smooth scrolling in each section.\r - Developed first with the Mobile First methodology, then for desktop.\r - Compatible with all mobile devices and with a beautiful and pleasant user interface.",
+  "main": "index.js",
+  "scripts": {
+    "start": "set PORT=3000 && react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.5.1",
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.4"
+  }
+}
